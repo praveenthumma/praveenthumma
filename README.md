@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveenthumma
 - 👀 I’m interested in Lawn Tennis, Indian Classical Music on Violin etc.
-- 🌱 I’m currently learning Music on Violin and kubernetes
+- 🌱 I’m currently learning Kubernetes and Music on Violin 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
